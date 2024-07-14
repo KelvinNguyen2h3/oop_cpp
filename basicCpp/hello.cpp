@@ -7,6 +7,30 @@ int sub(int a, int b) {
 	return a - b;
 }*/
 
+// Define the Rectangle class
+class Rectangle {
+private:
+	float length;
+	float width;
+
+public:
+	// Constructor
+	Rectangle(float l, float w) {
+		length = l;
+		width = w;
+	}
+
+	// Method to calculate area
+	float calculateArea() {
+		return length * width;
+	}
+
+	// Method to calculate perimeter
+	float calculatePerimeter() {
+		return 2 * (length + width);
+	}
+};
+
 int main() {
 	//hello world
 	/*
@@ -26,6 +50,19 @@ int main() {
 	/*
 	string name = "Kelvin";
 	cout << "My name is " << name;*/
+
+	//class
+	// Create a Rectangle object
+	Rectangle rect(5.0, 3.0);
+
+	// Calculate the area and perimeter of the rectangle
+	float area = rect.calculateArea();
+	float perimeter = rect.calculatePerimeter();
+
+	// Print the results
+	std::cout << "Area: " << area << std::endl;
+	std::cout << "Perimeter: " << perimeter << std::endl;
+
 
 	//Conditional Statements
 	//if-else
