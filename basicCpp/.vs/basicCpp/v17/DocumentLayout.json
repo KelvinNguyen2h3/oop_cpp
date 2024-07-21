@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Inhertance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:Inhertance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:Polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:Books.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:Encapsulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Abstraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:Abstraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A035709D-8EF3-411F-9BB7-D7E7C52EB4B8}|basicCpp.vcxproj|solutionrelative:hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +42,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polymorphism.cpp",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Polymorphism.cpp",
+              "RelativeDocumentMoniker": "Polymorphism.cpp",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Polymorphism.cpp",
+              "RelativeToolTip": "Polymorphism.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T20:57:41.295Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inhertance.cpp",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Inhertance.cpp",
+              "RelativeDocumentMoniker": "Inhertance.cpp",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Inhertance.cpp",
+              "RelativeToolTip": "Inhertance.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAArwDUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T17:33:19.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstraction.cpp",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Abstraction.cpp",
+              "RelativeDocumentMoniker": "Abstraction.cpp",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Abstraction.cpp",
+              "RelativeToolTip": "Abstraction.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T15:16:15.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encapsulation.cpp",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Encapsulation.cpp",
+              "RelativeDocumentMoniker": "Encapsulation.cpp",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Encapsulation.cpp",
+              "RelativeToolTip": "Encapsulation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T15:15:46.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.cpp",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Books.cpp",
+              "RelativeDocumentMoniker": "Books.cpp",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\Books.cpp",
+              "RelativeToolTip": "Books.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T10:12:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "hello.cpp",
               "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\hello.cpp",
               "RelativeDocumentMoniker": "hello.cpp",
               "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\oopCpp\\basicCpp\\hello.cpp",
               "RelativeToolTip": "hello.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAVAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T17:23:03.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T10:05:45.985Z"
             }
           ]
         }

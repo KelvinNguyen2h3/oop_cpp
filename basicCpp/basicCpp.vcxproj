@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Abstraction.cpp" />
+    <ClCompile Include="Books.cpp" />
+    <ClCompile Include="Encapsulation.cpp" />
     <ClCompile Include="hello.cpp" />
+    <ClCompile Include="Inhertance.cpp" />
+    <ClCompile Include="Polymorphism.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
